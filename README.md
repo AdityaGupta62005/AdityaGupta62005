@@ -20,8 +20,7 @@ Besides tech, I love exploring stock markets and writing thoughts & dreams.
 ---
 
 ## 🌐 Socials:
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityagupta62005@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/adityagupta642/))
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityagupta62005@gmail.com) 
 
 ---
 
